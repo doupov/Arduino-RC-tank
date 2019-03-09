@@ -5,6 +5,7 @@ Simple example how control Motor Driver 2A Dual L298 H-Bridge with 2ch RC receiv
 
 
 Setup for Motor Driver 2A Dual L298 H-Bridge
+
 // Motor A LEFT
 int enA = 9;
 int in1 = 8;
